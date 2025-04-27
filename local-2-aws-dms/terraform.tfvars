@@ -1,0 +1,5 @@
+environment              = "dev"
+source_database_host     = "your-source-db-host"
+source_database_name     = "your-source-db-name"
+source_database_username = "your-source-db-username"
+source_database_password = "your-source-db-password"
